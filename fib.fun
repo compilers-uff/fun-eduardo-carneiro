@@ -1,8 +1,8 @@
-fun fibAux( n | a | b ) =
-    if n == 0 then a
+fun fibAux( n | x | y ) =
+    if n == 0 then x
     else    
-        if n == 1 then b
-        else fibAux( n - 1 | b | a + b ),
+        if n == 1 then y
+        else fibAux( n - 1 | y | x + y ),
 
-fun fib(p) =
-    fibAux( p | 0 | 1 )
+fun fib(z) =
+    fibAux( z | 0 | 1 )
