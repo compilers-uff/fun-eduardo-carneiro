@@ -5,6 +5,8 @@ Instituto de Computação
 Universidade Federal Fluminense
 
 - Data de entrega: 24/09/2021
+- Aluno: Eduardo Teixeira Carneiro
+- DRE: 319.031.001
 
 ## Objetivo
 
